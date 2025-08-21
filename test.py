@@ -19,3 +19,14 @@ def answer():
     # Returns answer
     return answer
 
+# Guess Function
+def guesses():
+    # Function for the guesses
+    # Dictionary for it
+    playerGuesses = {
+        "John Doe": 102,
+        "John Deer": 304,
+        "Jane Doe": 293
+    }
+    
+    return playerGuesses
